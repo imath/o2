@@ -617,7 +617,7 @@ class o2 {
 						break;
 
 					default:
-						continue;
+						continue 2;
 
 						break;
 				}
